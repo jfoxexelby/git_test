@@ -1,5 +1,8 @@
 # The_Odin_Project
 
+(29.09.24)
+ - Completed the first two flexbox projects, have left the others for a later date to save time given web development is not my concern.
+
 (25.09.24)
  - A colleation of the various projects done as part of the TOP curriculum.
 
